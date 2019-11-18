@@ -2,6 +2,7 @@
 !Learing RTOS with STM32
 - https://github.com/d-h-k/Learing-RTOS-with-STM32.git
 - RTOS교육 강의 노트 written by DHKim
+- RTOS 문서 : https://docs.aws.amazon.com/ko_kr/freertos-kernel/latest/dg/about.html 
  # 
  # Day1
  ## RTOS 소개 및 개발환경 구축
