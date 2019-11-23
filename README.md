@@ -3,6 +3,12 @@
 - https://github.com/d-h-k/Learing-RTOS-with-STM32.git
 - RTOS교육 강의 노트 written by DHKim
 - RTOS 문서 : https://docs.aws.amazon.com/ko_kr/freertos-kernel/latest/dg/about.html 
+- 2기 강의 생성중
+  - https://unityindepth.tistory.com/21
+  - https://m.cafe.daum.net/easyflow/F13G/57
+  - freertos   https://www.slideshare.net/bigikhan/free-rtos-seminar
+  - https://docs.aws.amazon.com/ko_kr/freertos-kernel/latest/dg/freertos-distribution.html
+  - http://rtlab.knu.ac.kr/?mid=project_RTOS_Ubinos
  # 
  # Day1
  ## RTOS 소개 및 개발환경 구축
