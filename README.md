@@ -12,7 +12,7 @@
  # 
  # Day1
  ## RTOS 소개 및 개발환경 구축
-  - 사용보드 STM32L475 IOT discovery kit
+  - 사용보드 STM32L475 IOT discovery kit!!
   - ARM 소개 및 STM32 시리즈 소개 해당 mcu는 80hmz로 동작
   - printf 사용법 : 표준입출력 리다이렉션 기능을 활용해서 printf 함수 사용함
     - 표준입출력 리다이렉션
